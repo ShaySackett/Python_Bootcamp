@@ -1,2 +1,2 @@
 # Python_Bootcamp
-The best projects I undertook for a beginner's python bootcamp course I took in the summer of 2020
+The best projects I undertook for Udemy's Python course titled: "2020 Complete Python Bootcamp: From Zero to Hero in Python"
